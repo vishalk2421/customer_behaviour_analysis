@@ -22,5 +22,7 @@ Visualization: Power BI
 
 Tools: pgAdmin, SQLAlchemy
 
+"I would like to credit Amlan Mohanty for the project concept and tutorial guidance."
+
 DASHBOARD :-
 <img width="557" height="303" alt="image" src="https://github.com/user-attachments/assets/c9f7b05a-7adf-4905-a852-61f6cc1247c7" />
